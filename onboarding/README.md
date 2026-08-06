@@ -1,3 +1,3 @@
-# Onboarding
+# Client Onboarding
 
-Resources related to client onboarding, welcome processes, checklists, and kickoff activities.
+This section contains onboarding documentation, checklists, welcome workflows, and client readiness resources.
