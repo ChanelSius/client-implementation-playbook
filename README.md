@@ -1,6 +1,4 @@
-Client Implementation Playbook
-
-Enterprise Client Onboarding & Implementation Framework
+### Enterprise Client Onboarding & Implementation Framework
 
 Badges
 
