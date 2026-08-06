@@ -1,0 +1,70 @@
+# Communication Plan Template
+
+## Project Information
+
+**Project:**  
+**Client:**  
+**Implementation Lead:**  
+**Date Created:**  
+
+## Communication Objectives
+
+- Keep stakeholders informed
+- Create clear decision-making channels
+- Reduce confusion and delays
+- Document risks, issues, changes, and approvals
+- Establish a consistent reporting cadence
+
+## Stakeholder Communication Matrix
+
+| Audience | Information Needed | Format | Frequency | Owner |
+|---|---|---|---|---|
+| Executive Sponsor | Project status, risks, decisions | Executive summary | Biweekly | Project Lead |
+| Client Project Team | Tasks, milestones, blockers | Status meeting | Weekly | Implementation Lead |
+| Technical Team | Requirements, testing, defects | Working session | As needed | Technical Lead |
+| Customer Success | Readiness, adoption, transition | Transition meeting | Before go-live | Implementation Lead |
+
+## Meeting Cadence
+
+| Meeting | Purpose | Attendees | Frequency |
+|---|---|---|---|
+| Internal Project Meeting | Review delivery progress | Internal team | Weekly |
+| Client Status Meeting | Review milestones and risks | Client and project team | Weekly |
+| Executive Update | Review decisions and major risks | Sponsors and leaders | Biweekly |
+| Go-Live Readiness Review | Confirm launch approval | All key stakeholders | Before go-live |
+
+## Communication Channels
+
+**Primary Channel:**  
+**Email Distribution List:**  
+**Meeting Platform:**  
+**Document Storage Location:**  
+**Urgent Escalation Method:**  
+
+## Status Reporting
+
+Status reports should include:
+
+- Overall project health
+- Completed work
+- Upcoming milestones
+- Open risks
+- Open issues
+- Decisions required
+- Action items
+
+## Escalation Process
+
+1. Document the issue.
+2. Assign an owner.
+3. Attempt resolution at the project-team level.
+4. Escalate to the implementation lead.
+5. Escalate to the executive sponsor when business impact, cost, scope, timeline, or client satisfaction is at risk.
+6. Document the final decision and resolution.
+
+## Approval
+
+**Client Contact:**  
+**Implementation Lead:**  
+**Project Sponsor:**  
+**Approval Date:**  
