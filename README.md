@@ -114,6 +114,17 @@ flowchart TD
 
 - [Project Kickoff Template](implementation/Project-Kickoff-Template.md)
 
+### Workflows
+
+- [Client Implementation Workflow](workflows/Client-Implementation-Workflow.md)
+
+### Templates
+
+- [Meeting Minutes Template](templates/Meeting-Minutes-Template.md)
+- [Project Charter Template](templates/Project-Charter-Template.md)
+- [RAID Log Template](templates/RAID-Log-Template.md)
+- [Communication Plan Template](templates/Communication-Plan-Template.md)
+
 Additional implementation tools will be added as the portfolio develops.
 
 ---
