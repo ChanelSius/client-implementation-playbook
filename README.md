@@ -119,6 +119,29 @@ Implementation success can be evaluated through metrics such as:
 * Client Satisfaction
 * Time to Value
 
+  ## 📁 Portfolio Examples
+
+Explore practical examples that demonstrate how the implementation framework can be applied to realistic client scenarios.
+
+### [Customer Integration Case Study](examples/Customer-Integration-Case-Study.md)
+
+A fictional e-commerce customer integration simulation demonstrating:
+
+* Sales-to-implementation handoff
+* Requirements gathering and documentation
+* SFTP file exchange
+* JSON data structures
+* Integration testing and validation
+* Technical issue troubleshooting
+* Stakeholder communication
+* Go-live readiness
+* Customer Success handoff
+
+### [BPO Client Implementation Case Study](examples/BPO-Client-Implementation-Case-Study.md)
+
+A simulated BPO client implementation demonstrating the coordination of client requirements, operational planning, staffing, stakeholder communication, launch readiness, and post-launch transition.
+
+
 ## 🧠 My Implementation Philosophy
 
 Client implementation sits at the intersection of **people, process, and technology**.
