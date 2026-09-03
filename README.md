@@ -119,7 +119,7 @@ Implementation success can be evaluated through metrics such as:
 * Client Satisfaction
 * Time to Value
 
-  ## 📁 Portfolio Examples
+## 📁 Portfolio Examples
 
 Explore practical examples that demonstrate how the implementation framework can be applied to realistic client scenarios.
 
